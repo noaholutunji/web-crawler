@@ -1,0 +1,10 @@
+*.md
+/node_modules
+npm-debug.log
+yarn-error.log
+/.vscode
+/out*
+*.json
+*.yml
+*.lock
+*test.js
